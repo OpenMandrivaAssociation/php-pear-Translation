@@ -16,6 +16,7 @@ Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
 BuildRequires:	recode
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Class allows to store and retrieve all the strings on multilingual
