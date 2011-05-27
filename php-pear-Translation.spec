@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.6pl1
-Release:	%mkrel 13
+Release:	%mkrel 14
 Summary:	Class for creating multilingual websites
 License:	PHP License
 Group:		Development/PHP
