@@ -7,7 +7,7 @@ Release:	17
 Summary:	Class for creating multilingual websites
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Translation/
+URL:		https://pear.php.net/package/Translation/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
